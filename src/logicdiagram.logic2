@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:semantic="http://www.eclipse.org/gmf/examples/runtime/1.0.0/logicsemantic">
-  <notation:StandardDiagram xmi:id="_VKnrMA2IEe-th5yu7p6PDw" type="logic" element="_VKNbgA2IEe-th5yu7p6PDw" name="logicdiagram.logic2" measurementUnit="Himetric"/>
-  <semantic:Model xmi:id="_VKNbgA2IEe-th5yu7p6PDw"/>
-</xmi:XMI>
