@@ -19,7 +19,16 @@ class Persona {
         return nombre;
     }
 
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
     public String getRut() {
         return rut;
     }
+
+	public void setRut(String rut) {
+		this.rut = rut;
+	}
+
 }
