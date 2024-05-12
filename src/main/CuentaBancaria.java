@@ -13,6 +13,8 @@ public class CuentaBancaria implements  CuentaDepositar, CuentaRetirar, CuentaVe
 	
     // Constructor
     // ---------------------------------------------
+
+	
 	public CuentaBancaria(double saldo, Cliente titular) {
 		super();
 		this.saldo = saldo;
@@ -21,10 +23,6 @@ public class CuentaBancaria implements  CuentaDepositar, CuentaRetirar, CuentaVe
 
 	// Metodos de la clase
     // ---------------------------------------------
-	
-	public CuentaBancaria(double saldoInicial) {
-		this.saldo = saldoInicial;
-	}
 	
 	//Muestra por pantalla un resumen de la cuenta bancaria
 	public void verCuentaBancaria() {
